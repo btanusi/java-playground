@@ -1,0 +1,9 @@
+.idea
+.gradle
+out
+build
+gradle/
+build.gradle
+        gradlew
+	        gradlew.bsettings.gradle
+			
